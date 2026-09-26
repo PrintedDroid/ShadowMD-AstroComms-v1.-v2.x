@@ -42,10 +42,8 @@ TX to RX
 // ============================================================================
 // Configuration - Change these values according to your needs
 // ============================================================================
-const char* ssid = "r2d2tarek";       // Name of the WiFi network
-const char* pass = "Jakina40";            // WiFi password
-// const char* ssid = "R2D2 Astromech";       // Name of the WiFi network
-// const char* pass = "C3POsucks";            // WiFi password
+const char* ssid = "R2D2 Astromech";       // Name of the WiFi network
+const char* pass = "C3POsucks";            // WiFi password
 const uint16_t serverPort = 9750;          // TCP server port
 const uint32_t serialBaud = 9600;          // Serial communication baud rate
 
